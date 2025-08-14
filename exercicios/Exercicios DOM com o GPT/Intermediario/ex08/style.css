@@ -1,0 +1,28 @@
+#estilizacao {
+    font-size: 1.6rem;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+#estilizacao:hover {
+    color: blueviolet;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+#botaoRemover {
+    margin-left: 20px;
+    border: 1px solid #797777;
+    border-radius: 10px;
+    padding: 5px;
+    text-transform: uppercase;
+    color: #797777;
+    background-color: white;
+}
+
+#botaoRemover:hover {
+    color: white;
+    border: 1px solid white;
+    background-color: #797777;
+    cursor: pointer;
+}
