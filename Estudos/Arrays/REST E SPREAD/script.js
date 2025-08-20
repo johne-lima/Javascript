@@ -14,6 +14,8 @@ const cliente = {
     }
 }
 
+console.log(cliente)
+
 // REST E SPREAD
 
 // PEGAR O NOME DO CLIENTE E NÃO DESCARTAR O RESTO

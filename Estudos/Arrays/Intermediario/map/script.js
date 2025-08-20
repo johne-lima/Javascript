@@ -31,12 +31,3 @@ console.log(nomes)
 
 
 
-// filter -> retorna um novo array com elementos filtrados.
-
-// find -> retorna o primeiro elemento que atender à condição.
-
-// findIndex -> retorna o índice do primeiro elemento que atender à condição.
-
-// every -> verifica se todos os elementos atendem à condição.
-
-// some -> verifica se algum elemento atende à condição.
