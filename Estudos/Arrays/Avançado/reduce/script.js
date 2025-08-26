@@ -1,3 +1,5 @@
+// reduce() – transforma o array em um único valor (somar, contar, agrupar, etc.).
+
 const rockets = [
     {country: 'Russia', launches: 25},
     {country: 'Japão', launches: 32},
