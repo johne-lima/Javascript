@@ -22,11 +22,3 @@ const newArray = numeros.filter((valor, indice, array) => {
 })
 
 console.log(newArray)
-
-// find -> retorna o primeiro elemento que atender à condição.
-
-// findIndex -> retorna o índice do primeiro elemento que atender à condição.
-
-// every -> verifica se todos os elementos atendem à condição.
-
-// some -> verifica se algum elemento atende à condição.

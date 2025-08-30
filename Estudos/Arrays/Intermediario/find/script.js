@@ -1,3 +1,4 @@
+// find -> retorna o primeiro elemento que atender à condição.
 const pizzas = [
     'calabrasa',
     'mussarela',

@@ -28,6 +28,3 @@ let nomes = users.map(element => {
 })
 
 console.log(nomes)
-
-
-
